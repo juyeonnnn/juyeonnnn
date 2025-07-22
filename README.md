@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 
+<details>
+  <summary>💡 기타 언어 경험 보기</summary>
+  <br/>
+  - C, C++ (기초 수준 / 학부 과제에서 사용)  
+</details>
 
 ### 💻 GitHub Stats
 
