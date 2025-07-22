@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-> 안녕하세요, 광운대 Web 개발자 **정주연 (Joy)** 입니다!  
+> 안녕하세요, 광운대 Web 개발자 **정주연 (ZOO)** 입니다!  
 > 사용자를 중심에 두는 개발을 지향하며, 협업과 성장에 진심인 사람입니다 🌱
 
 - 📍 **광운대학교 컴퓨터정보공학부 3학년**
@@ -32,11 +32,10 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 
-<details>
-  <summary>💡 기타 언어 경험 보기</summary>
-  <br/>
-  - C, C++ (기초 수준 / 학부 과제에서 사용)  
-</details>
+🧪 Others (기타 언어 경험)
+
+ C, C++ (기초 수준 / 학부 과제에서 사용)  
+
 
 ### 💻 GitHub Stats
 
