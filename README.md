@@ -34,9 +34,10 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-🧪 Others (기타 언어 경험)
-
- C, C++ (기초 수준 / 학부 과제에서 사용)  
+🧪 **Others (기타 언어 경험)**  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+(기초 수준 / 학부 과제에서 사용)  
 
 ---
 
