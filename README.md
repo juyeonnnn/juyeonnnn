@@ -39,11 +39,10 @@
 
 ---
 
-### 💻 GitHub Stats
+### 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeonnnn&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonnnn&layout=compact" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyeonnnn&theme=default"/>
 </p>
 
 ---
