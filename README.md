@@ -10,10 +10,8 @@
 > 현재 광운대학교에 재학 중이며 Web 개발자를 꿈꾸고 있습니다!  
 > 사용자를 중심에 두는 개발을 지향하며, 협업과 성장에 진심인 사람입니다 🌱
 
-- 📍 **광운대학교 컴퓨터정보공학부 3학년**
+- 📍 **광운대학교 컴퓨터정보공학부 4학년**
 - 🧩 **UI/UX에 관심 많은 React & React Native 개발자**
-- ✨ [Notion 포트폴리오 보러가기](https://pretty-bear-bd3.notion.site/UMC-8th-Web-KWU-162530e51fef80938b48c4bb677db5b4?source=copy_link)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -38,23 +36,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 (기초 수준 / 학부 과제에서 사용)  
-
----
-
-### 💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeonnnn&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonnnn&layout=compact" height="150"/>
-</p>
-
----
-
-### 🔥 Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyeonnnn&theme=default"/>
-</p>
 
 ---
 
