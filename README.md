@@ -39,6 +39,15 @@
 
 ---
 
+### 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juyeonnnn&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonnnn&layout=compact" height="150"/>
+</p>
+
+---
+
 ### 🧭 Most Active Time (Optional)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juyeonnnn&bg_color=ffffff&color=000000&line=61dafb&point=1abc9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
